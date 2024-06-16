@@ -10,7 +10,7 @@ Capstone Project SIB Cycle 6 - Dicoding 2024
 
 | ID        | NAMA                                                                       |
 | --------- | ------------------------------------------------------------------         |
-| R7256XB402 | [Mayang Puspita Sari](https://github.com/Afifanra)                              |
+| R7256XB402 | [Mayang Puspita Sari](https://github.com/mayangpuspitasari)                              |
 | R1936YB422 | [Mustofa Adny](https://github.com/Mustofaadni04040)                              |
 | R1296YB487 | [Dimas Fajar Katon Prayogo](https://github.com/SideeID)                                  |
 
